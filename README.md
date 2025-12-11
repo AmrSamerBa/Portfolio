@@ -35,7 +35,7 @@ A complete ML system for **spoken Arabic dialect classification**. Utilizes audi
 
 **Description:**  
 A high-resolution **anime remastering and super-resolution** pipeline using a diffusion-based UNet architecture and CLIP-powered low-resolution encoders. Features include:  
-- 480p → 1080p (and higher) anime frame upscaling  
+- 480p (and higher) → 1080p (can be higher) anime frame upscaling  
 - Custom dataset sharding, cropping, and batching  
 - Distributed multi-GPU training (A100, 5090, etc.)  
 - Evaluation metrics (PSNR, SSIM, LPIPS)  
